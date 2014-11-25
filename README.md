@@ -10,10 +10,10 @@ Throught the mobile app, you will be able to check your baby's status the 24h of
 ============
 EP
 
-*1. INTRODUCTION: Explain the identified PROBLEM.
+1. INTRODUCTION: Explain the identified PROBLEM.
     (Can be throught a video presentetion or in an oral way)
-*2. PRODUCT EXPLANATION: Explain the SOLUTION to the identified problem, which is the product. Explain how it works, its funcions...etc.
+2. PRODUCT EXPLANATION: Explain the SOLUTION to the identified problem, which is the product. Explain how it works, its funcions...etc.
     (With a PREZZI presentation help)
-*3. MARKET SIZE + COMPATITION RIVALS
-*4. MONETIZATION OF OUR PRODUCT (Sell throught internet+Services)
-*5. CONCLUSIONS
+3. MARKET SIZE + COMPATITION RIVALS
+4. MONETIZATION OF OUR PRODUCT (Sell throught internet+Services)
+5. CONCLUSIONS
